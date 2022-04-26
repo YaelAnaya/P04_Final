@@ -1,0 +1,32 @@
+Campeche,Campeche,1863,57924,/coatOfArms/campeche.png
+Baja California,Mexicali,1952,71446,/coatOfArms/baja_california.png
+Ciudad de México,CDMX,2016,1485,/coatOfArms/ciudad_de_mexico.png
+Zacatecas,Zacatecas,1823,75539,/coatOfArms/zacatecas.png
+Quintana Roo,Chetumal,1974,42361,/coatOfArms/quintana_roo.png
+Chiapas,Tuxta Gutiérrez,1824,73289,/coatOfArms/chiapas.png
+Chihuahua,Chihuahua,1824,247455,/coatOfArms/chihuahua.png
+Coahuila,Saltillo,1824,151563,/coatOfArms/coahuila.png
+Tlaxcala,Tlaxcala,1856,4016,/coatOfArms/tlaxcala.png
+Durango,Durango,1824,123451,/coatOfArms/durango.png
+Nuevo León,Monterrey,1824,64220,/coatOfArms/nuevo_leon.png
+Guerrero,Chilpancingo,1849,63621,/coatOfArms/guerrero.png
+Aguascalientes,Aguascalientes,1857,5618,/coatOfArms/aguascalientes.png
+Jalisco,Guadalajara,1823,78599,/coatOfArms/jalisco.png
+Estado de México,Toluca,1823,22357,/coatOfArms/estado_de_mexico.png
+Michoacán,Morelia,1823,58643,/coatOfArms/michoacan.png
+Morelos,Cuernavaca,1869,4893,/coatOfArms/morelos.png
+San Luis Potosí,San Luis Potosí,1823,60983,/coatOfArms/san_luis_potosi.png
+Hidalgo,Pachuca,1869,20813,/coatOfArms/hidalgo.png
+Oaxaca,Oaxaca,1823,93793,/coatOfArms/oaxaca.png
+Baja California Sur,La Paz,1974,73922,/coatOfArms/baja_california_sur.png
+Querétaro,Querétaro,1823,11684,/coatOfArms/queretaro.png
+Tabasco,Villahermosa,1824,24738,/coatOfArms/tabasco.png
+Puebla,Puebla,1823,34290,/coatOfArms/puebla.png
+Sinaloa,Culiacán,1830,57377,/coatOfArms/sinaloa.png
+Tamaulipas,Ciudad Victoria,1824,80175,/coatOfArms/tamaulipas.png
+Veracruz,Xalapa,1823,71820,/coatOfArms/veracruz.png
+Yucatán,Mérida,1823,39612,/coatOfArms/yucatan.png
+Colima,Colima,1856,5625,/coatOfArms/colima.png
+Nayarit,Tepic,1917,27815,/coatOfArms/nayarit.png
+Guanajuato,Guanajuato,1823,30608,/coatOfArms/guanajuato.png
+Sonora,Hermosillo,1824,179503,/coatOfArms/sonora.png
